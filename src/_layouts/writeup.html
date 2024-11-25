@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% include head.html %}
+<body class="container">
+    {% include navbar.html %}
+    {{ content }}
+</body>
+<footer>
+    <p >Written by Jackson Knepper</p>
+    <p>Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+</footer>
+</html>

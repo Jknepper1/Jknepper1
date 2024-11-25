@@ -1,0 +1,14 @@
+---
+title: "Write-ups"
+layout: default
+---
+<h1>Writeup Landing Page</h1>
+
+{% for post in site.posts %}
+<div>
+    <a href="{{ post.url | prepend: site.baseurl}}">
+        <h2> {{ post.title }}</h2>
+    </a>
+    <p>Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+</div>
+{% endfor %}

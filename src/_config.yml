@@ -1,0 +1,12 @@
+exclude:
+  - docker-compose.yml
+  - README.md
+# defaults:
+#   scope:
+#     path: "_posts"
+#     type: "posts"
+#   values:
+#     layout: writeup
+
+baseurl: ""
+# Make this the repository url when sending to GitHub
