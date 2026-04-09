@@ -2,7 +2,7 @@ title: Welcome! # name of the site
 author: Jackson Knepper # name of site's author
 email: N/a# email of site's author
 url: https://jacksonknepper.com # root address of the site
-baseurl: "/blog" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A personal blog from a budding OffSec Professional
 
