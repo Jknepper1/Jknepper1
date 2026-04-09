@@ -2,26 +2,27 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
-    entries:
-      - title: LinkedIn
-        url: https://www.linkedin.com/in/jacksonknepper/
-      - title: github
-        url: https://github.com/riggraz/no-style-please
-
-  - title: all posts
+  - title: posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+  - title: info
+    entries:
+      - title: LinkedIn
+        url: https://www.linkedin.com/in/jacksonknepper/
+      - title: github
+        url: https://github.com/Jknepper1
+  
+  # This will do sorting by category eventually 
+  # - title: posts by category
+  #   post_list:
+  #     category: CTFs
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
 
   # - title: rss
   #   url: feed.xml
