@@ -2,9 +2,7 @@
 layout: home
 ---
 
-# About Me
-
-I am currently a student at Brigham Young University studying Cybersecurity. I have a respect and passion for the quickly evolving realm of cybersecurity. My passion is in OffSec and seeking to better understand why attackers and people do what they do.
+I am currently a student at Brigham Young University studying Cybersecurity. I love all aspects of cybersecurity, but my passion is in OffSec and seeking to better understand why attackers and people do what they do.
 
 **Current Involvement:**
 - President of the [BYU Cybersecurity Student Association](https://github.com/BYU-CSA)

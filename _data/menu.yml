@@ -13,7 +13,7 @@ entries:
     entries:
       - title: LinkedIn
         url: https://www.linkedin.com/in/jacksonknepper/
-      - title: github
+      - title: GitHub
         url: https://github.com/Jknepper1
   
   # This will do sorting by category eventually 
