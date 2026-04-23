@@ -17,6 +17,3 @@ I am currently a student at Brigham Young University studying Cybersecurity. I l
 - Current research on Adversarial Thinking (Publishing soon)
 - Utilizing Artificial Intelligence to more accurartly imitate human speech profiles (Abstract submitted)
 
-===
----
-
