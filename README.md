@@ -10,4 +10,4 @@ This project was originally developed with NodeJS but I switched to Python as th
 
 ### My Blog Site
 
-It is almost a required rite of passage for all techy college kids to build a blog site at some point. After way too much contemplation of how I should build my blog site, I decided a content first approach using Jekyll/GitHub Pages was the way to go. I am not looking for a frontend development job, I am a budding cybersecurity professional. With that in mind, I went with the Chirpy theme, which is common amongst my peers for good reason. It is simple, effective, and easy to work with. I am using a custom domain as well and setting it up was a good reminder lesson on DNS servers. My site will include CTF writeups, takeaways from CPTC, and maybe some notes about my homelab experiments with AI Agents and tooling.
+Chirpy Theme, built with Jekyll. First post incoming.
